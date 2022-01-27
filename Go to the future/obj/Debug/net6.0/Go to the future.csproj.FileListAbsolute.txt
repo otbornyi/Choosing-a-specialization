@@ -1,0 +1,15 @@
+D:\papka2\Choosing-a-specialization\Go to the future\bin\Debug\net6.0\Go to the future.exe
+D:\papka2\Choosing-a-specialization\Go to the future\bin\Debug\net6.0\Go to the future.deps.json
+D:\papka2\Choosing-a-specialization\Go to the future\bin\Debug\net6.0\Go to the future.runtimeconfig.json
+D:\papka2\Choosing-a-specialization\Go to the future\bin\Debug\net6.0\Go to the future.dll
+D:\papka2\Choosing-a-specialization\Go to the future\bin\Debug\net6.0\ref\Go to the future.dll
+D:\papka2\Choosing-a-specialization\Go to the future\bin\Debug\net6.0\Go to the future.pdb
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\Go to the future.csproj.AssemblyReference.cache
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\Go to the future.GeneratedMSBuildEditorConfig.editorconfig
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\Go to the future.AssemblyInfoInputs.cache
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\Go to the future.AssemblyInfo.cs
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\Go to the future.csproj.CoreCompileInputs.cache
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\Go to the future.dll
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\ref\Go to the future.dll
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\Go to the future.pdb
+D:\papka2\Choosing-a-specialization\Go to the future\obj\Debug\net6.0\Go to the future.genruntimeconfig.cache

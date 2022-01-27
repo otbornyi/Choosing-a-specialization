@@ -2,7 +2,7 @@
 {
     for (int i = 0; i < A.Length; i++)
     {
-        Console.WriteLine("Введите предложение: ");
+        Console.WriteLine("Введите слово или цифры: ");
         A[i] = Console.ReadLine();
     }
 }
@@ -22,3 +22,7 @@ void Choise(string[] A)
     }
     Console.WriteLine(B);
 }
+
+string[] A = new string[4];
+FillArray(A);
+Choise(A);
